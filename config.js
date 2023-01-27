@@ -60,38 +60,38 @@ global.owner = [
 ]
 global.mods = []
 global.prems = []
-global.nomorbot = '62XXX' //pasang no bot lo 
-global.nomorown = '62XXX' //pasang no own lo
-global.nomorown1 = '62XXX'
-global.nomorown2 = '62XXX'
+global.nomorbot = '6289526625516' //pasang no bot lo 
+global.nomorown = '6289526625512' //pasang no own lo
+global.nomorown1 = '6289526625512'
+global.nomorown2 = '6289526625512'
 global.nomorwa = '0'
-global.nameown = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.gcname = '𝑍𝑌𝐾𝑂-𝑀𝐷 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
-global.author = 'Created By 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.namabot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.namebot = '𝗭𝘆𝗸𝗼𝗕𝗼𝘁𝘇-𝗠𝗗'
-global.packname2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.nameown = 'Fahzz'
+global.gcname = 'Fahzz 𝗢𝗳𝗳𝗶𝗰𝗶𝗮𝗹'
+global.author = 'Created By Fahzz'
+global.namabot = 'Fahzz'
+global.namebot = 'Fahzz'
+global.packname2 = 'Fahzz'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.nameown1= '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.nameown2 = '𝑍𝑌𝐾𝑂-𝑀𝐷'
+global.nameown1= 'Fahzz'
+global.nameown2 = 'Fahzz'
 
 /*============== STAFF ==============*/
 //kosong
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.wm2 = '𝑍𝑌𝐾𝑂-𝑀𝐷 '
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Fahzz'
+global.wm2 = 'Fahzz '
 global.packname = wm
 global.watermark = wm
-global.titlebot = `𝑍𝑌𝐾𝑂-𝑀𝐷`
+global.titlebot = `Fahzz`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ NAMA STICKER ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.stickpack = '𝑍𝑌𝐾𝑂-𝑀𝐷'
-global.stickauth = `© 𝑍𝑌𝐾𝑂-𝑀𝐷`
+global.stickpack = 'Fahzz'
+global.stickauth = `© Fahzz`
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TIME INFO  ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
@@ -111,14 +111,14 @@ global.lynk = 'https://lynk.id/hyuuraofc'
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ DONASI ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
-global.pdana = '08XXXXXXXXXX' //pasang no lo sinih buat donasi 
-global.povo = '08XXXXXXXXXX' 
-global.pgopay = '08XXXXXXXXXX'
+global.pdana = '085754180729' //pasang no lo sinih buat donasi 
+global.povo = '085754180729' 
+global.pgopay = '085754180729'
 global.plinkaja = '-' //link aja
-global.ppulsa = '08XXXXXXXXXX'
-global.ppulsa2 = '08XXXXXXXXXX'
-global.psaweria = 'https://saweria.co/hyuura'
-global.donasikabul = 'Jasa Sewa ZykoBotz-MD\nhttps://lynk.id/kabul',
+global.ppulsa = '085754180729'
+global.ppulsa2 = '085754180729'
+global.psaweria = '---'
+global.donasikabul = '---',
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
